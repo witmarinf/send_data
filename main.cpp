@@ -9,6 +9,7 @@ float avg(int *tab, int dim);
 void sort(int *tab, int dim);
 
 
+
 int main(int argc, char *argv[]){
     double f,c;
     int dim = argc-1;
